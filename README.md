@@ -1,0 +1,2 @@
+# GoingStrike-MyGame-
+my game 
